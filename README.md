@@ -9,4 +9,4 @@
   task queue and wake up the executor thread (*unpark*)
 
 ### THIS SAVES A LOT OF CPU !! 
-![LOW_CPU_USAGE][low_cpu.png]
+![LOW_CPU_USAGE](low_cpu.png)
